@@ -1,0 +1,32 @@
+.ddd{
+    height: auto;
+    display: block;
+    background-color: #709a7b;
+    border-radius: 10px;
+
+}
+
+.wrapper3{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.wrapper4{
+    width: 90%;
+    margin: 0 auto;
+    padding: 50px;
+    justify-content: center;
+    box-shadow: 0 0 30px rgba(20,10,10,10);
+    border-radius: 10px;
+}
+
+
+.wrapper4 img{
+    width: auto;
+    object-fit: cover;
+
+}

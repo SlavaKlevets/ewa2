@@ -1,0 +1,31 @@
+.ddd{
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wrapper4{
+    width:25%;
+    margin:20px;
+}
+
+.image{
+    display: block;
+    position: relative;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.wrapper4 h2{
+    text-align: center;
+}
+
+.wrapper4 p{
+    text-align: center;
+}
+
+.pusta{
+    padding-top: 150px;
+    font-size: 50px;
+    color: coral;
+}
